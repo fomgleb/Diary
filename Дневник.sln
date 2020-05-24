@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Дневник", "Дневник\Дневник.csproj", "{77C0B6D1-35E0-4D89-87E7-BAC6A769D607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77C0B6D1-35E0-4D89-87E7-BAC6A769D607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C0B6D1-35E0-4D89-87E7-BAC6A769D607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C0B6D1-35E0-4D89-87E7-BAC6A769D607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C0B6D1-35E0-4D89-87E7-BAC6A769D607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEB7B85E-BB84-4B58-AAAE-C24F622BB3F1}
+	EndGlobalSection
+EndGlobal
